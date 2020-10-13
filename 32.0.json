@@ -40500,6 +40500,10 @@
                 "description": "The name of this VM.",
                 "type": "string"
               },
+              "description": {
+                "description": "The description of this VM.",
+                "type": "string"
+              },
               "containerName": {
                 "description": "The name of the containing vApp or vApp template.",
                 "type": "string"
